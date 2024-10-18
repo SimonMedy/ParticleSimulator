@@ -18,3 +18,5 @@ Ce projet est un simulateur de particules interactif développé en React et Typ
 ## Fonctionnement
 
 Le simulateur crée un système de particules qui interagissent entre elles via une force gravitationnelle. Les utilisateurs peuvent expérimenter avec différents paramètres pour observer comment le système évolue dans le temps.
+
+![Démonstration du Simulateur de Particules](src/assets/Animation.gif)
